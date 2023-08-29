@@ -214,3 +214,32 @@
     margin-top: 24px;
     margin-bottom: 32px;
   }
+
+  /* instagram section style */
+.instagram {
+    margin: 128px 240px;
+  }
+  
+  .instagram-photo {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 128px;
+  }
+  
+  .instagram-subscribe {
+    background-image: url("../Flower\ Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    padding: 121px 285px;
+  }
+  
+  .instagram-subscribe input[type="email"] {
+    color: rgba(39, 39, 39, 0.60);
+    padding: 22px 500px 22px 22px;
+    border: none;
+    border-radius: 8px;
+  background: #FFF;
+  margin-right: 10px;
+  }
