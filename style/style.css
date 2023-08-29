@@ -152,3 +152,31 @@
     font-weight: 600;
     line-height: 35px; /* 145.833% */
   }
+
+  /* Extra section */
+.extra {
+    margin: 180px 240px;
+  }
+  
+  .flower-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+  }
+  
+  .flower {
+    width: 45%;
+  }
+  
+  .local-flower {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .flower p{
+    margin-top: 32px;
+    font-size: 24px;
+    color: #272727;
+    font-weight: 700;
+    text-align: center;
+  }
