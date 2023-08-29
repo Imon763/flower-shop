@@ -19,6 +19,10 @@
     line-height: normal;
     padding: 20px 40px;
   }
+
+  input.btn-primary {
+    margin-top: 20px;
+}
   
   
   .tittle {
@@ -48,7 +52,7 @@
   
   /* Header section style */
 .header {
-    padding: 200px 240px 0px 240px;
+    padding: 100px 170px 0px 170px;
     background: rgba(229, 84, 115, 0.1);
     display: flex;
     justify-content: space-between;
