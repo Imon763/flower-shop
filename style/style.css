@@ -243,3 +243,20 @@
   background: #FFF;
   margin-right: 10px;
   }
+
+  /* footer section style */
+.footer-text {
+    background: #111010;
+    padding: 180px 240px;
+  }
+  
+  .tittle span {
+    color: #E55473;;
+  }
+  
+  
+  .footer-text small {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+  }
